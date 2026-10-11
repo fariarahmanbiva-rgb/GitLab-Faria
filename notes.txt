@@ -1,0 +1,1 @@
+Why the Git staging area is useful? Its a temporary area where you stage change before committing them.
